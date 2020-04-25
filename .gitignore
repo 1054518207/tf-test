@@ -1,2 +1,6 @@
 **/.ipynb_checkpoints
 *.csv
+*.npy
+jyc-tmp/
+data/contest/nCoV_900k_train.unlabled.csv
+*.h5
